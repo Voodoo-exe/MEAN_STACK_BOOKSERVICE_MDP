@@ -61,7 +61,7 @@ This is a Book Store App created using MEAN Stack for the Multi Device Programmi
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Below is the Tech Stack we used to build the project:
 
 
 

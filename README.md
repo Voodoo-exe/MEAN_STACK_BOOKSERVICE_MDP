@@ -49,7 +49,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[MDP MEAN STACK BOOK SERVICE]
+MDP MEAN STACK BOOK SERVICE - [GitHub Repo](https://github.com/Voodoo-exe/MEAN_STACK_BOOKSERVICE_MDP) [It seems like a recursive job but incase you reach this through a zip file know where to find us on Github]
 
 This is a Book Store App created using MEAN Stack for the Multi Device Programming Course in our University. In this you can add books using an admin login and buy books using client login. Although the payment has not been setup. Mostly this app is a practice and demo work of MEAN stack.
 

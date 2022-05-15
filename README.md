@@ -11,7 +11,7 @@
 <div align="center">
  
 
-  <h3 align="center">MEAN STACK PROJECT - MDP</h3>
+  <h3 align="center" style="color:Tomato">MEAN STACK PROJECT - MDP</h3>
 
   <p align="center">
     This is the readme file to guide you through our MDP MEAN STACK PROJECT
